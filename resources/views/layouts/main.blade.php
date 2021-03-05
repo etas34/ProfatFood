@@ -36,7 +36,27 @@
             display: block;
         }
 
+        #myCarousel .list-inline {
+            white-space:nowrap;
+            overflow-x:auto;
+        }
 
+        #myCarousel .carousel-indicators {
+            position: static;
+            left: initial;
+            width: initial;
+            margin-left: initial;
+        }
+
+        #myCarousel .carousel-indicators > li {
+            width: initial;
+            height: initial;
+            text-indent: initial;
+        }
+
+        #myCarousel .carousel-indicators > li.active img {
+            opacity: 0.7;
+        }
     </style>
 
     @yield('captcha')
