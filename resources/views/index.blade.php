@@ -96,7 +96,7 @@
                     <div class="card text-center border-0 shadow">
                         <div class="image-container">
                             <img class="card-img-top img-fluid"
-                                 src="{{asset('public/images/bsf-larva-unu.jpg')}}" alt="BSF Larva Unu">
+                                 src="{{asset('public/images/(0).jpg')}}" alt="BSF 22 Çeşit Besin">
                             <hr>
                             <div class="image-overlay">
                                 <div class="image-text">
@@ -250,7 +250,7 @@
                             <img class="img-fluid" src="{{asset('public/images/surungen.jpg')}}" alt=”Sürüngen Yemi”>
                             <h3 class="mt-2">Sürüngen Yemi</h3>
                         </div>
-                        <p class="text-justify"><strong>Canlı Larva, Kuru Larva ve Larva Unu</strong> olarak besleme yapılabilmektedir.<strong> Larva Unu</strong> mamalarının içerisine koyularak besleme takviyesi olarakta
+                        <p class="text-justify"><strong>Canlı Larva, Kuru Larva ve 22 Çeşit Besin</strong> olarak besleme yapılabilmektedir.<strong> 22 Çeşit Besin</strong> mamalarının içerisine koyularak besleme takviyesi olarakta
                             kullanılabilmektedir. </p>
                     </div>
 
@@ -472,7 +472,7 @@
                                                     yumurta üretimi için yüksek miktarda protein, aminoasit ve enerjiye
                                                     ihtiyaç duyarlar. İçeriğindeki yüksek protein, yağ ve enerji
                                                     miktarından dolayı tavuk vb. kümes hayvanlarından alınan verimi
-                                                    arttırmaktadır.<strong> Canlı Larva, Kuru Larva ve Larva Unu</strong> olarak besleme
+                                                    arttırmaktadır.<strong> Canlı Larva, Kuru Larva ve 22 Çeşit Besin</strong> olarak besleme
                                                     yapılabilmektedir. Öğütülmüş larva yem takviyelerine ilave
                                                     edilerekte beslenmelerinde kullanılabilmekted</p>
                                             </div>
@@ -622,7 +622,7 @@
                             aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
                 </div>
                 <div class="modal-body">
-                    <img src="" id="imagepreview" style="width: 400px; height: 550px;">
+                    <img src="" id="imagepreview" class="img-fluid">
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Kapat</button>

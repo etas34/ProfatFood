@@ -20,7 +20,7 @@
 
                                     </div>
                                     <div class="carousel-item" data-slide-number="1">
-                                        <img src="{{asset('public/images/bsf-larva-unu.jpg')}}"   class="img-fluid">
+                                        <img src="{{asset('public/images/(0).jpg')}}"   class="img-fluid">
                                     </div>
                                     <div class="carousel-item" data-slide-number="2">
                                         <img src="http://placehold.it/1200x480&amp;text=three" class="img-fluid">
@@ -69,7 +69,7 @@
                                     </li>
                                     <li class="list-inline-item">
                                         <a id="carousel-selector-1" data-slide-to="1" data-target="#myCarousel">
-                                            <img src="{{asset('public/images/bsf-larva-unu.jpg')}}" class="img-fluid">
+                                            <img src="{{asset('public/images/(0).jpg')}}" class="img-fluid">
                                         </a>
                                     </li>
                                     <li class="list-inline-item">

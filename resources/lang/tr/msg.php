@@ -17,7 +17,7 @@ return [
     'diger' => 'Diğer',
     'canli-larva' => 'Canlı Larva',
     'kuru-larva' => 'Kuru Larva',
-    'larva-unu' => 'Larva Unu',
+    'larva-unu' => '22 Çeşit Besin',
     'satin-al' => 'SATIN AL',
     'siyah-asker-sinegi-nedir' => 'Siyah Asker Sineği (BSF) Nedir',
     'bsfl-siyah-asker-sinegi-larvasi' => ' BSFL( Siyah Asker Sineği Larvası)',

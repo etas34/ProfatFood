@@ -88,10 +88,10 @@
                 <div class="row">
                     <div class="col-md-6">
                         <img style="width: 100%;  height: auto;"
-                             src="{{asset('public/images/bsf-larva-unu.jpg')}}">
+                             src="{{asset('public/images/(0).jpg')}}">
                     </div>
                     <div class="col-md-6">
-                        <h5 class="text-center">Larva Unu</h5>
+                        <h5 class="text-center">22 Çeşit Besin</h5>
                         <a class="btn btn-outline-success btn-block" href="{{route('bsf-ogutulmus', app()->getLocale())}}">SATIN AL</a>
 
                     </div>
